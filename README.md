@@ -10,7 +10,7 @@
 </div>
 <div class="remember-forgot">
 <label> <input type="checkbox"/> Remember me </label>
-ka href="#">Forget Password?</a>
+ka href="">Forget Password?</a>
 </div>
 <button type="submit" class="button">Login</button>
 <div class="register-link">
